@@ -1,4 +1,3 @@
----
 layout: default
 title: Portfólio de Heloísa
 ---
@@ -6,18 +5,24 @@ title: Portfólio de Heloísa
 # Olá! Eu sou a Heloísa 👩‍💻
 
 Sou estudante de Ciência da Computação, apaixonada por programação, design e inovação!  
-Este é meu portfólio, onde compartilho projetos que desenvolvi com muito carinho.
+Este é meu portfólio, onde compartilho projetos que desenvolvo com muito carinho.
 
-## 💼 Projetos
+---
 
-### 🔹 [Chatbot de Atendimento](https://github.com/heloisastemp/chatbot-atendimento)
-Projeto com foco em lógica de atendimento automático usando JavaScript.
+## 🎓 Cursos que fiz
 
-### 🔹 [Calculadora em C++](https://github.com/heloisastemp/calculadora-cpp)
-Calculadora simples com operações básicas feita em C++ para estudar condicionais.
+- Curso de Lógica de Programação — Alura  
+- Git e GitHub para Iniciantes — Curso em Vídeo  
+- Introdução à Programação em C++ — Udemy  
+- Desenvolvimento Web Básico — FreeCodeCamp  
 
-### 🔹 [Página Web Estática](https://github.com/heloisastemp/pagina-html)
-Uma página feita com HTML e CSS puro para testar estilos e responsividade.
+---
+
+## 💾 Meus códigos do Beecrowd no GitHub
+
+🔗 [Clique aqui para ver meus códigos resolvidos no GitHub](COLE_AQUI_O_LINK_DO_SEU_REPOSITORIO)
+
+---
 
 ## 📫 Contato
 
