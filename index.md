@@ -20,7 +20,7 @@ Este é meu portfólio, onde compartilho projetos que desenvolvo com muito carin
 
 ## 💾 Meus códigos do Beecrowd no GitHub
 
-🔗 [Clique aqui para ver meus códigos resolvidos no GitHub](https://github.com/helo-lang/beecrowd-solutions.git)
+🔗 [Clique aqui para ver meus códigos resolvidos no GitHub] https://github.com/helo-lang/beecrowd-solutions.git
 
 ---
 
