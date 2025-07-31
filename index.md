@@ -12,10 +12,9 @@ Este é meu portfólio, onde compartilho projetos que desenvolvo com muito carin
 
 ## 🎓 Cursos que fiz
 
-- Curso de Lógica de Programação — Alura  
-- Git e GitHub para Iniciantes — Curso em Vídeo  
-- Introdução à Programação em C++ — Udemy  
-- Desenvolvimento Web Básico — FreeCodeCamp  
+- Curso de Lógica de Programação — Trybe 
+- Montagem e Manutenção de Computadores — URI  
+- Python — EV.G
 
 ---
 
@@ -28,4 +27,4 @@ Este é meu portfólio, onde compartilho projetos que desenvolvo com muito carin
 ## 📫 Contato
 
 - 💌 E-mail: helostemp@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/heloisastemp)
+- 💼 [LinkedIn](www.linkedin.com/in/heloisa-stempkowski)
